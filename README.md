@@ -58,8 +58,8 @@ This list was initially populated using information from the following sources:
 - Kevin Beaumont
 - SwitHak
 
-| Vendor | Product| Version(s)| Status| Update available| Vendor link | Notes | Other References | Last Updated |
-| ------ | -------------------- | ---- | ----- | --------------- | ----------- | ----- | ---------------- | ------------ |
+| Vendor | Product | Version(s) | Status | Update available | Vendor link | Notes | Other References | Last Updated |
+| ------ | ------- | ---------- | ------ | ---------------- | ----------- | ----- | ---------------- | ------------ |
 | 1Password | | | | | [1Password Community Discussion](https://1password.community/discussion/comment/622612/#Comment_622612) | | | |
 | 2n | | | | | [2n Advisory Link](https://www.2n.com/cs_CZ/novinky/produkty-2n-neohrozuje-zranitelnost-cve-2021-44228-komponenty-log4j-2) | | | |
 | 3CX | | | | | [3CX Community Thread Link](https://www.3cx.com/community/threads/log4j-vulnerability-cve-2021-44228.86436/#post-407911) | | | |
